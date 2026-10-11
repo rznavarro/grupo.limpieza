@@ -1,0 +1,6 @@
+{
+  "name": "Grupo Limpieza | Limpieza con Vapor a Domicilio en Santiago",
+  "description": "Limpieza y sanitización con vapor a domicilio en la Región Metropolitana: sillones desde $25.000, colchones desde $30.000 y autos desde $20.000. Sin recargo en la Provincia de Santiago. Agenda por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
